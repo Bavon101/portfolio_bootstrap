@@ -7,9 +7,9 @@
 
 
 Additional description about the project and its features.
-## Screenshots Desktop 📷
+<!-- ## Screenshots Desktop 📷
 
-## Screenshots Mobile 📷📲
+## Screenshots Mobile 📷📲 -->
 
 ## Built With
 
