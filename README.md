@@ -7,6 +7,7 @@
 
 
 Additional description about the project and its features.
+Additional description about the project and its features. This is my portfolio site, it's based on a preexisting figma design. The projecs are static code based, with each project being added from the source code and pushed , then published by `gh-pages.`
 ## Screenshots Desktop 📷
 
 ## Screenshots Mobile 📷📲
